@@ -1,11 +1,12 @@
 # Surge-patches
-This Is where I Will share my original patches
-For SurgeXT .
+Hi Everyone!
 
-They are released to everybody for any purpose,
-But you would be kind to send me a message of you
-Use them.
+Surge XT is a powerful open source synthesizer, with lots of good ready-to-use patches.
 
-Hope you like them.
+But real fun comes when you start building your sounds, and more fun is when you share them to other musicians.
+
+All patches are public, no restrictions for any (legal) use.
+
+If you like and use them, just let me know. :-)
 
 @fracrist
